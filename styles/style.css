@@ -157,10 +157,10 @@ body {
     }
     .cabecalho__menu{
         justify-content: center;
-         gap: 50px;
+         gap: 90px;
     }
     .apresentacao{
-        padding: 1%;
+        padding: 2.5%;
         flex-direction: column-reverse;
     }
     .apresentacao__makerfair{
