@@ -157,6 +157,7 @@ body {
     }
     .cabecalho__menu{
         justify-content: center;
+         gap: 50px;
     }
     .apresentacao{
         padding: 1%;
@@ -168,7 +169,6 @@ body {
         flex-direction: column;
     }
     .apresentacao__conteudo{
-        
-        width: 85%;
+        width: auto;
     }
 }
