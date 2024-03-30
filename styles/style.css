@@ -159,16 +159,16 @@ body {
         justify-content: center;
     }
     .apresentacao{
-        padding: 1%;
+        padding: 5%;
         flex-direction: column-reverse;
     }
     .apresentacao__makerfair{
         align-items: center;
-        padding: 1%;
+        padding: 5%;
         flex-direction: column;
     }
     .apresentacao__conteudo{
         
-        width: auto;
+        width: 90%;
     }
 }
