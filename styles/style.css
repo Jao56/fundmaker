@@ -98,7 +98,7 @@ body {
 }
 
 .apresentacao__paragrafo__makerfair{
-    text-align: justify;
+    text-align: center;
     font-size: var(--size-paragrafo);
     font-family: var(--fonte-secundaria);
     font-weight: 400;
@@ -172,6 +172,9 @@ body {
     }
     .cabecalho__menu{
         justify-content: center;
+    }
+    .cabecalho__menu__link {
+        font-size: 1rem;
     }
     .apresentacao{
         padding: 2.5%;
