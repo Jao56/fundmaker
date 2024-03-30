@@ -182,13 +182,13 @@ body {
     }
     .apresentacao__makerfair{
         align-items: center;
-        padding: 1%;
+        padding: 0.5%;
         flex-direction: column;
     }
      .apresentacao__paragrafo__makerfair{
     text-align: justify;
     font-size: 1.5rem;
-    font-weight: 500;
+    font-weight: 400;
      }
     .apresentacao__conteudo{
         width: auto;
