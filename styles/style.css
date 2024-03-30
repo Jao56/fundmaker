@@ -73,6 +73,14 @@ body {
     gap: 40px;
 }
 
+.apresentacao__conteudo__makerfair{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
 .apresentacao__titulo{
     font-size: var(--size-titulo);
     font-family: var(--fonte-principal);
@@ -84,6 +92,13 @@ body {
 }
 
 .apresentacao__paragrafo{
+    font-size: var(--size-paragrafo);
+    font-family: var(--fonte-secundaria);
+    font-weight: 400;
+}
+
+.apresentacao__paragrafo__makerfair{
+    text-align: justify;
     font-size: var(--size-paragrafo);
     font-family: var(--fonte-secundaria);
     font-weight: 400;
